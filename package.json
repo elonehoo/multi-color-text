@@ -21,7 +21,7 @@
     "@unocss/reset": "0.45.5",
     "@vitejs/plugin-vue": "3.0.1",
     "@vue/compiler-sfc": "3.2.39",
-    "eslint": "8.21.0",
+    "eslint": "8.23.0",
     "pnpm": "6.34.0",
     "ts-node": "10.9.1",
     "typescript": "4.8.3",
